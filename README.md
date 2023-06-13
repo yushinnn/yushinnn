@@ -1,5 +1,5 @@
 # ✨ Hi! I'm yushin ✨.
-🖥️ I'm a full-stack developer, who has 5 years experience. 🖥️
+🖥️ I'm a full-stack developer, who has 4 years experience. 🖥️
 
 ![natsusa profile](https://komarev.com/ghpvc/?username=yushinnn&color=blueviolet)
 
