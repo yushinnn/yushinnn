@@ -1,7 +1,7 @@
 # ✨ Hi! I'm yushin ✨.
 🖥️ I'm a full-stack developer, who has 4 years experience. 🖥️
 
-![natsusa profile](https://komarev.com/ghpvc/?username=yushinnn&color=blueviolet)
+![yushin profile](https://komarev.com/ghpvc/?username=yushinnn&color=blueviolet)
 
 # About me
 I'm 19 years old junior developer. I love coding and watching anime or game videos. I have 4 years experience and I'm doing this for fun. Also I'm planning learn Python and Electron.JS
